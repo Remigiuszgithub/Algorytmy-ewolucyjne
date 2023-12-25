@@ -1,0 +1,35 @@
+Bratian -> Skarlin 11.5 km
+Bratian -> Radomno 8 km
+Bratian -> Gwiździny 12 km
+Bratian -> Tylice 8.5 km
+Bratian -> Jamielnik 12 km
+
+Skarlin -> Bratian 11.5 km
+Skarlin -> Radomno 13 km
+Skarlin -> Gwiździny 17 km
+Skarlin -> Tylice 16.5 km
+Skarlin -> Jamilenik 14 km
+
+Radomno -> Bratian 8 km
+Radomno -> Skarlin 13 km
+Radomno -> Gwiździny 19 km 
+Radomno -> Tylice 15 km
+Radomno -> Jamielnik 5 km
+
+Gwiździny -> Bratian 12 km
+Gwiździny -> Skarlin 17 km
+Gwiździny -> Radomno 19 km
+Gwiździny -> Tylice 8 km
+Gwiździny -> Jamielnik 21 km
+
+Tylice -> Bratian 8.5 km
+Tylice -> Skarlin 16.5 km
+Tylice -> Radomno 15 km
+Tylice -> Gwiździny 8 km
+Tylice -> Jamielnik 20 km
+
+Jamielnik -> Bratian 12 km
+Jamielnik -> Skarlin 14 km
+Jamielnik -> Radomno 5 km
+Jamielnik -> Gwiździny 21 km
+Jamielnik -> Tylice 20 km
